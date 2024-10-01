@@ -1,0 +1,3 @@
+== ENTRADA DE DADOS ==
+
+. Para entrada de dados no python pelo usuário basta usar a propriedade input na variável em que você quer que seja relacionada a essa entrada de dados basta inserir o seguinte: nome da variável = input("Digite alguma coisa")

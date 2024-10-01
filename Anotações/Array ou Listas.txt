@@ -1,0 +1,5 @@
+== LISTA ==
+
+. Array como é conhecida normalmente também se faz presente em python uma forma bastante simples de se fazer basta apenas colocar o nome da variável e em seguida fazer ela receber vários números, ficando dessa forma: 
+
+nome da variável = [1,12,2,3,4,5,6]

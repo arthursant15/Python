@@ -1,0 +1,7 @@
+== LAÇOS DE REPETIÇÕES == 
+
+While -> Para utilizar o laço basta ter uma variável de inicialização e ele irá ser executada no bloco enquanto a condição for true (verdadeira). 
+
+For -> É a forma mais utilizada das demais sendo sua sintaxe: for variável inicialização in range (inicio, fim, passos).
+
+OBS: O método range considera como se fosse uma lista/array, ou seja, ele leva em conta de começar no índice 0 até o numero em que você colocar dentro do parâmetro ou seja, se você colocar até 4 ele irá até o numero 3. 

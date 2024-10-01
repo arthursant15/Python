@@ -1,0 +1,14 @@
+== EXPLICANDO O CODIGO DO CHAT ==
+
+Em primeiro caso, é importado o modulo "os" que é usada para interagir com o sistema operacional
+
+1. 'os.getcwd()': Obtém o diretório de trabalho atual.
+2. 'os.listdir(path)': Lista os arquivos e diretórios em um caminho específico.
+3. 'os.path.join(path, *paths)': Combina partes de caminhos para formar um novo caminho.
+4. 'os.path.exists(path)': Verifica se um caminho existe.
+5. 'os.mkdir(path)': Criar um novo arquivo.
+6. 'os.remove(path)': Remove um arquivo.
+7. 'os.rename(src, dst)': Renomeia um arquivo ou diretório.
+8. 'os.environ': Dicionário com variáveis de ambiente do sistema.
+9. 'os.system(command)': Executa um comando do sistema.
+10. 'os.chdir(path)': Altera o diretório de trabalho atual.

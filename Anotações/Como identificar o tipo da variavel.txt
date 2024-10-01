@@ -1,0 +1,7 @@
+== TYPE == 
+
+. Para identificar o tipo da variável basta colocar a propriedade type do mesmo jeito do cast ficando desse jeito: 
+
+print("Tipos de cada variaveis") 
+print ("A variavel nome é do tipo: ", type(nome))
+print ("Avariavel num é do tipo: ", type(num))

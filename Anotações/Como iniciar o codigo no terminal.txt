@@ -1,0 +1,3 @@
+== COMO IINICIAR O CODIGO NO TERMINAL ==
+
+. Para iniciar o código no terminal basta digitar no terminal python nome do arquivo.jy

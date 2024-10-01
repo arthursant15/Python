@@ -1,0 +1,11 @@
+== DICIONARIOS OU OBJETOS == 
+
+Os objetos (dicionários no python) tem sua função associada por armazenar diversos tipos de variáveis como: Strings, ints, floats, isso tudo em um objeto só podendo assim ser modificada mais pra frente.
+
+sua sintaxe fica da seguinte forma: 
+
+nome do objeto = {
+	"nome da variavel": "valor" ,
+	"nome da variavel": "valor" ,
+	"nome da variavel": "valor" 
+}

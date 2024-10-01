@@ -1,0 +1,10 @@
+nome = input ("Digite seu nome: ")
+num =  int (input ("Digite um numero: "))
+num1 = int (input ("Digite outro numero: "))
+soma = num+num1
+print("Olá, ", nome)
+print("A soma de " ,num, " + " ,num1, " é igual a: " ,soma)
+print ("----------")
+print("Tipos de cada variaveis") 
+print ("A variavel nome é do tipo: ", type(nome))
+print ("Avariavel num é do tipo: ", type(num))

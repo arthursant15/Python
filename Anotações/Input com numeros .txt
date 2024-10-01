@@ -1,0 +1,17 @@
+== INPUT COM NÚMEROS == 
+
+. No caso de fazer um input com números naturais ou decimais (int ou float) se vê um problema, pois ele irá retornar uma String por exemplo se realizar uma soma: 
+
+num = input ("Digite um numero: ")
+num1 = input ("Digite outro numero: ")
+soma = num+num1
+print("A soma de " ,num, " e " ,num1, " é igual a: " ,soma)
+print("A soma de " ,num, " e " ,num1, " é igual a: " ,soma)
+
+O valor que está guardada na variável soma será a soma de duas Strings ou seja, se caso eu colocar na primeira variável o numero 1 e na segunda o numero 2 em vez de me mostrar o resultado 3 ele simplesmente irá retornar 12. 
+
+Para resolver esse problema basta fazer um cast que é uma conversão mostrando que o valor que eu quero guardar se trata de um inteiro ou float, irá ficar assim: 
+
+num = int(input("Digite um numero: "))
+ou 
+num = float(input("Digite um numero: "))

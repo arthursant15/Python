@@ -1,0 +1,21 @@
+== METODOS DE LISTAS == 
+
+As descrições vão ser representadas de seguinte ordem: Métodos, parâmetros, resultado, descrição
+
+. Append, item, mutador, acresenta um novo item no final da lista. 
+
+. Insert, posição & item, mutador, insere um novo item na posição dada. 
+
+. Pop, nenhum, hibrido, Remove e retorna o ultimo item. 
+
+. Pop, posição, hibrido, remove e retorna o item de posição. 
+
+. Sort, nenhum, mutador, ordena a lista. 
+
+. Reverse, nenhum, mutador, ordena a lista em ordem reversa. 
+
+. Index, item, retorna idx, retorna o numero de ocorrências do item.
+
+. Remove, item, mutador, remove a primeira ocorrência do item. 
+
+OBS: Para usá-los basta colocar o nome do array seguido de um ponto e o método que se adeque a situação que você precise.

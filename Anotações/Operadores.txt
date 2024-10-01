@@ -1,0 +1,7 @@
+== OPERADORES == 
+
+. Soma = 1+1
+. Subtração = 1-1
+. Multiplicação = 1*1
+. Divisão = 1/1
+. Potenciação = 1**1

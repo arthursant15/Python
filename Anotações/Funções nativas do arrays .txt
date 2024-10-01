@@ -1,0 +1,9 @@
+== FUNÇÕES NATIVAS DO ARRAY == 
+
+. Len, é usado para ver o total de índices presentes no array, remetendo ao comprimento (length)
+
+. Min, é usado para setar o menor número no array em questão. 
+
+. Max, é usado para setar o maior número no array em questão.
+
+OBS: Para usar basta colocar: função(nome da lista)
