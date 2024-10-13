@@ -1,0 +1,5 @@
+== RESTO DA EXPLICAÇÃO ==
+
+No seguinte temos a lista 'mensagem[]' que está vazia e é nela que iremos adicionar o texto e posteriormente que será exibida na tela.
+
+Logo depois temos duas variáveis, que serão digitados os nomes dos que serão exibidos no chat

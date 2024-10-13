@@ -16,7 +16,9 @@ while True:
     
     print("________________________")
 
+    print(nome, ": ")
     texto = input("mensagem: ")
+    print(nome2, ": ")
     texto2 = input("mensagem: ")
 
     if texto == "fim":
